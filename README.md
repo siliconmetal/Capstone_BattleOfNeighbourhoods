@@ -1,7 +1,7 @@
 # Capstone_BattleOfNeighbourhoods
 
 ### Overview:
-In this project, Foursquare API is used to abstract cartographical features about Ahmedabad city i.e. hotels, top-picks, fun points, and restaurants(using Requests & geolocator library). And using json_normalise, the abstracted semi-structured JSON data is normalized into flat tables using pandas data frames and filtering them. After filtering the data frame, folium is used for the visualizations as markers on the map.      
+In this project, Foursquare API is used to abstract cartographical features about Ahmedabad city i.e. hotels, top-picks, fun points, and restaurants(using Requests & geolocator library). And using json_normalise, the abstracted semi-structured JSON data is normalized into flat tables using pandas data frames. After filtering the data frame, folium is used for the visualizations as markers on the map.      
 
 
 #### Libraries used:
