@@ -19,4 +19,4 @@ It includes a link to my IBM-Watson studio notebook:
 https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/23b76889-0398-48a8-88b6-69b0f72135c9/view?access_token=913eaace54d0c8c8bf47944cbf4f366d93277d7d087ce5d3d2241dc736f23001
 
 
-___In this notebook; geopy.geocoder, folium, json_normalize, pandas, and numpy is used to abstract cartographic data from Foursquare API and normalize the semi-structured JSON data into data frames and then using the abstracted data, all the cartographical details is pointed on the map with folium.___  
+___In this notebook; geopy.geocoder, folium, json_normalize, pandas, and NumPy is used to abstract cartographic data from Foursquare API and normalize the semi-structured JSON data into data frames, and then using the abstracted data, all the cartographical details are pointed on the map with folium.___  
